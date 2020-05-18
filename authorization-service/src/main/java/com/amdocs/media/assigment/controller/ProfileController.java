@@ -15,7 +15,7 @@ import com.amdocs.media.assigment.model.User;
 import com.amdocs.media.assigment.model.UserProfile;
 
 @RestController
-@RequestMapping("/profile")
+@RequestMapping("/assigment/profile")
 public class ProfileController {
 	
 	  @Autowired
